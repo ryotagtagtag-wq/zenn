@@ -19,7 +19,8 @@ published: true
 
 ### Acodeの入れ方
 まずAcodeをインストールします。[f-droid](https://f-droid.org/en/packages/com.foxdebug.acode/)か[Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)から選んでどうぞ。
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/efdb8994-3972-470b-9443-9622203f888f" /> <small>出典:\[Google Play\](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)</small>
+![グーグルプレイ画像](https://github.com/user-attachments/assets/efdb8994-3972-470b-9443-9622203f888f)
+> 出典:[Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)</small>
 #### ⚠️ インストール時の注意点
 - **Google Playストアから入れる場合**：普通のアプリと同じく「インストール」ボタンを押すだけです。安全ですよ。
 - **F-DroidからAPKを入れる場合**：Androidが「有害なファイルの可能性があります」とか「提供元不明のアプリ」って警告を出すことがあります。これはストア外からのアプリを入れる時の標準的な警告なので、びっくりしなくて大丈夫です。
@@ -29,14 +30,14 @@ published: true
 ### 初期設定
 最初から日本語になってると思いますが、もし英語だった場合の説明です。
 1. **「Settings」** をタップ
-1. **「App settings（アプリ設定）」** を選択
-1. **「Language（言語）」** から **「日本語」** を選ぶ
+2. **「App settings（アプリ設定）」** を選択
+3. **「Language（言語）」** から **「日本語」** を選ぶ
 これで日本語に切り替わります。簡単ですね！
 #### フォルダの設定
 1. **「フォルダを開く」** をタップ
-1. 右上の **「＋」ボタン** → **「パスを追加」** を選択
-1. **「フォルダを選択」** → **「新規フォルダを作成」** で好きなディレクトリを作る
-1. フォルダ名を決めて **「OK」** で完了
+2. 右上の **「＋」ボタン** → **「パスを追加」** を選択
+3. **「フォルダを選択」** → **「新規フォルダを作成」** で好きなディレクトリを作る
+4. フォルダ名を決めて **「OK」** で完了
 これでセットアップ完了です！
 ### さいごに
 Acodeは、スマホの小さい画面でもPCと変わらない開発体験ができる、本当に優秀なツールです。
