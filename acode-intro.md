@@ -3,7 +3,7 @@ title: "Acodeを使ってみよう！Androidで始める快適スマホコーデ
 emoji: "💻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["acode", "android", "editor", "html", "programming"]
-published: false
+published: true
 ---
 
 どうも**game_ryo**です!
@@ -11,18 +11,43 @@ published: false
 そして今回のテーマは**Acodeを使ってみよう**です！  
 じゃあ本編どうぞ！
 
-# Acodeとは？
-**Acode**とは、
-簡単にいうと、Android版の**vscode**です！
-ターミナルがついてたり、
-多機能なコードエディタです。
-まあプラグインとかもあってめちゃくちゃ便利です。
-## Acodeの入れ方
-まずAcodeの入れ方について説明します。
-まず[f-droid](https://f-droid.org/en/packages/com.foxdebug.acode/)又は[グーグルプレイ](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)  に移動します。
+## **💡 ご利用にあたっての注意点**
 
-<img width="1919" height="926" alt="image" src="https://github.com/user-attachments/assets/c02a8604-5093-4247-9826-503a8adbf35e" />
-<small>出典：[Acode 公式サイト (acode.app)](https://acode.app)</small>
-次に、インストールします。
-(※f-droidの場合、apkファイルを開く時エラーが出たりしますが構わず進めてください。これによってウイルスに感染したりしても著者は責任を負いません)
+本記事で紹介しているツールの導入や設定は、ご自身の判断と責任でお願いします。
+手順通りに進めてもうまくいかないことや、環境によって予期せぬエラーが出ることもあるかもしれません。
+**そうなった場合でも、著者（私）は責任を負いかねますので、あらかじめご了承ください。**
 
+### Acodeの入れ方
+まずAcodeをインストールします。[f-droid](https://f-droid.org/en/packages/com.foxdebug.acode/)か[Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)から選んでどうぞ。
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/efdb8994-3972-470b-9443-9622203f888f" /> <small>出典:\[Google Play\](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)</small>
+#### ⚠️ インストール時の注意点
+- **Google Playストアから入れる場合**：普通のアプリと同じく「インストール」ボタンを押すだけです。安全ですよ。
+- **F-DroidからAPKを入れる場合**：Androidが「有害なファイルの可能性があります」とか「提供元不明のアプリ」って警告を出すことがあります。これはストア外からのアプリを入れる時の標準的な警告なので、びっくりしなくて大丈夫です。
+#### 🚨 重要：自己責任について
+提供元不明のアプリのインストールは、セキュリティリスクがあります。
+**万が一、トラブルが起きてもこちらは責任を持てないので、すべて自己責任でお願いします。** 心配な方はGoogle Play版を使うことをおすすめします。
+### 初期設定
+最初から日本語になってると思いますが、もし英語だった場合の説明です。
+1. **「Settings」** をタップ
+1. **「App settings（アプリ設定）」** を選択
+1. **「Language（言語）」** から **「日本語」** を選ぶ
+これで日本語に切り替わります。簡単ですね！
+#### フォルダの設定
+1. **「フォルダを開く」** をタップ
+1. 右上の **「＋」ボタン** → **「パスを追加」** を選択
+1. **「フォルダを選択」** → **「新規フォルダを作成」** で好きなディレクトリを作る
+1. フォルダ名を決めて **「OK」** で完了
+これでセットアップ完了です！
+### さいごに
+Acodeは、スマホの小さい画面でもPCと変わらない開発体験ができる、本当に優秀なツールです。
+
+この記事では導入と初期設定だけ紹介しましたが、これはスタート地点に過ぎません。プラグイン拡張、ターミナル活用、Git連携みたいな高度な機能は、Acodeのドキュメントやコミュニティで学ぶことになります。
+
+「スマホでコーディング？PCでやるべきでしょ」って思う人も多いと思います。でも、どこでも、いつでも、気軽にコードが書けるってマジで便利なんですよ。移動中のアイデア実装、急な修正対応、あるいは「あ、あの書き方どうだっけ？」みたいな確認まで——
+Acodeなら全部できちゃいます。
+
+Androidユーザーなら、一度試してみる価値アリです。
+
+では、素晴らしいコーディングライフを楽しんでください!!!
+
+(※ちなみに次の記事はもしかしたらAcodeで書くかも。乞うご期待！)
