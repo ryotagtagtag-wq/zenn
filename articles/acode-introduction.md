@@ -20,7 +20,7 @@ published: true
 ### Acodeの入れ方
 まずAcodeをインストールします。[f-droid](https://f-droid.org/en/packages/com.foxdebug.acode/)か[Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)から選んでどうぞ。
 ![グーグルプレイ画像](https://github.com/user-attachments/assets/efdb8994-3972-470b-9443-9622203f888f)
-> 出典:[Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)</small>
+> 出典:[Google Play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
 #### ⚠️ インストール時の注意点
 - **Google Playストアから入れる場合**：普通のアプリと同じく「インストール」ボタンを押すだけです。安全ですよ。
 - **F-DroidからAPKを入れる場合**：Androidが「有害なファイルの可能性があります」とか「提供元不明のアプリ」って警告を出すことがあります。これはストア外からのアプリを入れる時の標準的な警告なので、びっくりしなくて大丈夫です。
