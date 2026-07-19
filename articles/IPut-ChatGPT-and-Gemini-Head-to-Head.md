@@ -3,6 +3,7 @@ title: "opencodeを使ってみよう！"
 emoji: "🤖"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ai","opencode","tui"]
+slug: "chatgpt-vs-gemini"
 published: false
 ---
 
